@@ -87,7 +87,6 @@ $(document).ready(function(){
 <body>
 
 <div style="display:inline-block;width:95%;padding:10px;background-color:#FFFFFF">
-<a href="http://www.jquery4u.com/tutorials/jquery-infinite-scrolling-demos/">< Back to tutorial page</a>
 </div>
 
 
@@ -160,7 +159,7 @@ $(document).ready(function(){
 
 
 <div id="footer" style="display:inline-block;width:100%;padding:10px;background-color:#FFFFFF">
-<p>Copyright <a target="_blank" href="http://www.jquery4u.com">jQuery4u.com</a> 2011</p>
+<p>Copyright jQuery4u.com 2011</p>
 </div>
 
 
